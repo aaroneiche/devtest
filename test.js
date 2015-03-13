@@ -7,3 +7,10 @@ function test(){
 function test2(){
     console.log("This is not a robot");
 }
+
+
+function newTest(){
+    console.log("Another suburban family morning");
+    console.log("Grandmother screaming at the wall");
+
+}
